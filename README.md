@@ -1,6 +1,8 @@
 # Youtube-Data-API-Project
 Building a python project to scrape YouTube data using  YouTube Data API, I extracted  the data of the best Data Science channels and their channel statistics using youtube data API and analysing the data using Tableau and creating a visualisation dashboard
 
+Tableau Dashboard link: https://public.tableau.com/app/profile/akash.kv/viz/YoutubedatasciencechannelsEDA/Dashboard1
+
 In my data science journey i have come across some of the best youtube channels which posts the data science content
 
 Dataset contains the data of following channels
